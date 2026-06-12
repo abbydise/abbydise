@@ -1,4 +1,4 @@
-Hello, I am Abby Dise. I am a 3rd year Computer Science student at Drexel University. I am looking for 6 month co-ops for the next two years between April - September. I have the most experience in Python, HTML & CSS, JavaScript, and React. I am willing and capable to learn whatever I need to, however. Check out my website at abbydise.com for more information of my background!
+Hello, I am Abby Dise. I am a 4th year Computer Science student at Drexel University. I am passionate about AI and general programming. I aspire to be an AI engineer after I graduate. I have experience in Python, Java, JavaScript/TypeScript, and many other languages. I am currently working on a RAG chatbot for the video game Stardew Valley. Connect with me on LinkedIn! - linkedin.com/in/abbydise
 
 <!---
 abbydise/abbydise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
